@@ -96,7 +96,7 @@ Tools for looking inside models, and TUIs and terminal tools that are pretty and
 
 I am a-disciplinary and reject intellectual silos. I want to participate in projects that help remove this arbitrary paradigm. I focus on systems only, and abstract to the problem.
 
-*"I feel like an LLM having a human psychosis"*
+*"an LLM having a human psychosis"*
 
 <sub>Patreon: I just post there when I feel like I have something worth saying. It's free.</sub>
 
